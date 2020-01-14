@@ -1,12 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<<<<<<< HEAD
-## Testing Components
-switch to the branch "testingComponents"
-=======
-
->>>>>>> testingComponents
-
 ## Available Scripts
 
 In the project directory, you can run:
